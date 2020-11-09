@@ -1,0 +1,129 @@
+.project {
+  width: 1895px;
+  height: 4000px; 
+}
+
+/* main_background */
+
+.main_background {
+  opacity: 0.5;
+  width: 1903px;
+  height:1000px;
+  position: absolute;
+  left:0;
+  top: 0;
+}
+
+/* h1 */
+
+.h1 {
+  font-size:72px;
+  position: absolute;
+  top:120px;
+  left:162px;
+}
+
+/* logo */
+
+.logo {
+  width: 1895px;
+}
+
+/* main_p */
+
+.main_p {
+  width: 514px;
+  height: 129px;
+}
+
+/* logo_p */
+
+.logo_p {
+  font-size:36px;
+  position: absolute;
+  top:252px;
+  left:162px;
+}
+
+/* link_one ; link_1 */
+
+.link_one {
+  width: 303px;
+  height: 64px;
+}
+
+.link_1 {
+  font-size: 36px;
+  position: absolute;
+  top: 30px;
+  left:970px;
+  text-decoration: none;
+  color:black;
+
+}
+
+.link_1:hover {
+  color:blue;
+}
+
+/* link_two ; link_2 */
+
+.link_two {
+  width: 303px;
+  height: 64px;
+}
+
+.link_2 {
+  font-size: 36px;
+  position: absolute;
+  top: 30px;
+  left:1293px;
+  text-decoration: none;
+  color:black;
+}
+
+.link_2:hover {
+  color:blue;
+}
+
+/* bottom ; article */
+
+.bottom {
+  width: 626px;
+  height: 154px;
+  background-color: #C99E08;
+  border-radius: 80px;
+  position: absolute;
+  top:540px ;
+  left:162px ;
+}
+
+.article {
+  width: 168px;
+  height: 66px;
+  font-size: 48px;
+  text-decoration:none;
+  color:black;
+  position: absolute;
+  left:237px;
+  top:45px;
+}
+
+.article:hover {
+  color:blue
+}
+
+/* Workout is ; Workout */
+
+.Workout_is {
+  width:1294px;;
+  height:250px;
+}
+
+.Workout {
+  font-size: 48px;
+  position: absolute;
+  top:270px;
+  text-align:center;
+  left:900px;
+}
